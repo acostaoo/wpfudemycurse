@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|c:\\users\\yorsh\\documents\\github\\wpfudemycurse\\expenseit\\expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|solutionrelative:expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|c:\\users\\yorsh\\documents\\github\\wpfudemycurse\\expenseit\\expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|solutionrelative:expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|c:\\users\\yorsh\\documents\\github\\wpfudemycurse\\expenseit\\expenseithome.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|solutionrelative:expenseithome.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|c:\\users\\yorsh\\documents\\github\\wpfudemycurse\\expenseit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|c:\\users\\yorsh\\documents\\github\\wpfudemycurse\\expenseit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|c:\\users\\yorsh\\documents\\github\\wpfudemycurse\\expenseit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE12E22-6C73-4DB0-9DE2-B7FC9093FD0D}|ExpenseIt.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseReportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\ExpenseReportPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseReportPage.xaml",
+              "ToolTip": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\ExpenseReportPage.xaml",
+              "RelativeToolTip": "ExpenseReportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:35:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseItHome.xaml",
+              "DocumentMoniker": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeDocumentMoniker": "ExpenseItHome.xaml",
+              "ToolTip": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeToolTip": "ExpenseItHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:32:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:28:03.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T20:27:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:27:40.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "087e731e-054c-443c-b48e-40d5b1935081",
+        "Display": 0,
+        "X": 75,
+        "Y": 19,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseItHome.xaml",
+              "DocumentMoniker": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeDocumentMoniker": "ExpenseItHome.xaml",
+              "ToolTip": "C:\\Users\\yorsh\\Documents\\GitHub\\wpfudemycurse\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeToolTip": "ExpenseItHome.xaml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T23:10:19.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
